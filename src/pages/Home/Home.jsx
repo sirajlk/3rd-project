@@ -1,6 +1,6 @@
 import Footer from "../../components/Footer";
 import TopBar from "../../components/TopBar";
-import Brand from "../../components/Brand/Brand";
+import Brand from "../../components/Brand/brand";
 import Blog from "../../components/blog/Blog";
 import ConstructionLeaders from "../../components/sections/construcionleaders/ConstructionLeaders";
 import Hero2 from "../../components/Hero2";
