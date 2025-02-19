@@ -2,7 +2,7 @@ import React from "react";
 import OurServices from "../../components/services";
 import Footer from "../../components/Footer";
 import TopBar from "../../components/TopBar";
-import Brand from "../../components/Brand/brand";
+import Brand from "../../components/Brand/Brand";
 import Blog from "../../components/blog/Blog";
 import ConstructionLeaders from "../../components/sections/construcionleaders/ConstructionLeaders";
 import Hero2 from "../../components/Hero2";
